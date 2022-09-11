@@ -23,7 +23,7 @@ timezone: Asia/Kolkata
 
 title: Blackstar's blog                   # the main title
 
-tagline: Security Analyst | CEH Certified | Pentesting Enthusiast    # it will display as the sub-title
+tagline: Security Analyst | CEH Certified | CTF Player    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blackstar's blog
